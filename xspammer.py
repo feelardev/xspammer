@@ -500,7 +500,7 @@ def dmspammer(token, userid, text):
         os._exit(0)
 
 def loading_animation():
-    final_text = 'XSPAMMER | V0.1.2 | Cracked By Tryharder'
+    final_text = 'XSPAMMER | V0.1.2 | Cracked By Mory'
     text = ''
     for character in final_text:
         ctypes.windll.kernel32.SetConsoleTitleW(text)
